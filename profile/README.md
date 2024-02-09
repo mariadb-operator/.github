@@ -1,13 +1,12 @@
 <div align="center">
   <a href="https://github.com/mariadb-operator/mariadb-operator"><img src="https://mariadb-operator.github.io/mariadb-operator/assets/mariadb-operator_centered_whitebg.svg" alt="mariadb" width="100%"/>
   </a>
-
   <h3 align="center">🦭 mariadb-operator</h3>
-
   <h4 align="center">
     Run and operate MariaDB in a cloud native way
   </p>
-
+</div>
+<div align="center">
   <p align="center">
     <a href="https://github.com/mariadb-operator/mariadb-operator"><img alt="GitHub" src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator">
     </a>
