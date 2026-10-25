@@ -5,7 +5,6 @@
 </div>
 <p align="center">
 <a href="https://github.com/mariadb-operator/mariadb-operator"><img alt="GitHub" src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator"></a>
-<p align="center">
 <a href="https://github.com/mariadb-operator/mariadb-operator/tree/main/docs"><img src="https://img.shields.io/badge/docs-latest-blue?logo=readthedocs&logoColor=white" alt="Docs"></a>
 <a href="https://github.com/mariadb-operator/mariadb-operator/pkgs/container/mariadb-operator"><img src="https://img.shields.io/badge/ghcr.io-mariadb--operator-blue?logo=docker&logoColor=white" alt="Container image"></a>
 <a href="https://r.mariadb.com/join-community-slack"><img alt="Slack" src="https://img.shields.io/badge/slack-join_chat-blue?logo=Slack&label=slack&style=flat"></a>
